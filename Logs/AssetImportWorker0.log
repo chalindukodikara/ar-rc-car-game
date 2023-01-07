@@ -178,3 +178,577 @@ Received Import Request.
   path: Assets
   artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.011915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1143.097108 seconds.
+  path: Assets/ARPlacement.cs
+  artifactKey: Guid(eb6b7ef739920984fb6ee929767f4f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPlacement.cs using Guid(eb6b7ef739920984fb6ee929767f4f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f507fa72bfb41d790ec76057a8523bf') in 0.047030 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011588 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Chalindu Kodikara\ARFCarGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Chalindu Kodikara\ARFCarGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.020 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2021ms)
+		BeginReloadAssembly (329ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (122ms)
+		EndReloadAssembly (1501ms)
+			LoadAssemblies (172ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (594ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (576ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (44ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (321ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3808 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (97.2 KB). Loaded Objects now: 4283.
+Memory consumption went from 131.0 MB to 130.9 MB.
+Total: 5.134000 ms (FindLiveObjects: 0.381100 ms CreateObjectMapping: 0.273700 ms MarkObjects: 4.301300 ms  DeleteObjects: 0.176900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 198.179526 seconds.
+  path: Assets/ARCADE - FREE Racing Car
+  artifactKey: Guid(aeef5d99d914e644cb38a77f7a2f1e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car using Guid(aeef5d99d914e644cb38a77f7a2f1e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1526ba60ea01ae42846f71779eba1c') in 0.043858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.629058 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Scenes
+  artifactKey: Guid(f5e319e41d6dacd4ca48ffd42be2063e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Scenes using Guid(f5e319e41d6dacd4ca48ffd42be2063e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec609663c0f8659216b22db2c6d0d810') in 0.011822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.072164 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Scenes/More cars.png
+  artifactKey: Guid(d12c0013fcfea9e4a9ee272bfaaec870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Scenes/More cars.png using Guid(d12c0013fcfea9e4a9ee272bfaaec870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8081a5b7307466b93a88b346f311fa74') in 0.122846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.180621 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Materials
+  artifactKey: Guid(7cd50ff664f941e4ab191d35f6582e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Materials using Guid(7cd50ff664f941e4ab191d35f6582e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60d2fe93c42521ee1bfb44a468db6af') in 0.012177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071146 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Materials/AFRC_Emission.mat
+  artifactKey: Guid(ab035d7682921704a9015ac353311d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Materials/AFRC_Emission.mat using Guid(ab035d7682921704a9015ac353311d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21598fa410a4a26201f7cd27733b7d1') in 0.199156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.913647 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Materials/Color Variations
+  artifactKey: Guid(8abab931da3a1cd48bf2967746adf82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Materials/Color Variations using Guid(8abab931da3a1cd48bf2967746adf82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29db16ab9176642eb6bf4408a138955c') in 0.010345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061365 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Materials/Color Variations/AFRC_Mat_Col1.mat
+  artifactKey: Guid(07f44fe3e9c462146a7769b976c50ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Materials/Color Variations/AFRC_Mat_Col1.mat using Guid(07f44fe3e9c462146a7769b976c50ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7125e7c05833187f4088f9619287b7c2') in 0.521848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.310213 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes
+  artifactKey: Guid(0b49c9f90b77b6441bac4cde7efcd2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes using Guid(0b49c9f90b77b6441bac4cde7efcd2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c9a12aba066498886e4a93cf9d2ede') in 0.011726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.037409 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/ARCADE - FREE Racing Car.fbx
+  artifactKey: Guid(9ec6a8fc6925acb4abc5500eeecb8270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/ARCADE - FREE Racing Car.fbx using Guid(9ec6a8fc6925acb4abc5500eeecb8270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6311746cbd08dde9300aa4887d63d6') in 0.318318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.712171 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)
+  artifactKey: Guid(87eba6af4c0e3ef4592345ff00d6be5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only) using Guid(87eba6af4c0e3ef4592345ff00d6be5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e77538f63bbf5688a770015750ea6b') in 0.010445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079039 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Blue Variant.prefab
+  artifactKey: Guid(a9cbfe7195f75844aa7ec0619ca7616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Blue Variant.prefab using Guid(a9cbfe7195f75844aa7ec0619ca7616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b81d4b47ba9d0a100cf2cec8d4d856') in 0.041821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car.prefab
+  artifactKey: Guid(c4cad50aa03bbca42938fe318344950b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car.prefab using Guid(c4cad50aa03bbca42938fe318344950b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1040b4650d518f6f22603e100fef833') in 0.031254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Red Variant.prefab
+  artifactKey: Guid(a82f70a5f0178974093910fc6fd84c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Red Variant.prefab using Guid(a82f70a5f0178974093910fc6fd84c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd87849cb271cd3e7b081abb9f9b0eaa') in 0.037023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 364.251770 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(d25cf6bd86ea4f441849b3dde2a9b9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(d25cf6bd86ea4f441849b3dde2a9b9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76976d01185e74408ba38762b26cd63') in 0.008930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.845659 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(5ca0d53e93eecf241a511a77518daf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(5ca0d53e93eecf241a511a77518daf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3f2c36ab4886f3eda43e1574d0da02') in 0.016920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.966647 seconds.
+  path: Assets/Material
+  artifactKey: Guid(5ca0d53e93eecf241a511a77518daf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(5ca0d53e93eecf241a511a77518daf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44642131e631ceaed8b1ed557560a704') in 0.010063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.850522 seconds.
+  path: Assets/Texture/aim.png
+  artifactKey: Guid(64830afddb1c94e41a75348bd236811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/aim.png using Guid(64830afddb1c94e41a75348bd236811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7eb24881fabae0a61ba77992d43b89c') in 0.046214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.619019 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Textures
+  artifactKey: Guid(e10f940138722c7499edca3d3e5bc277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Textures using Guid(e10f940138722c7499edca3d3e5bc277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f62aa661cdeeff37ca71d991b2a139a') in 0.013905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050712 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Textures/AFRC_Env_Mat.png
+  artifactKey: Guid(34a74330fac842a4f97649ddf77d6d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Textures/AFRC_Env_Mat.png using Guid(34a74330fac842a4f97649ddf77d6d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e024095511c4256f5855d76ab3bac4b0') in 0.015965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.522253 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)
+  artifactKey: Guid(9d896aab1f5aa8946ae832f1329a6dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders) using Guid(9d896aab1f5aa8946ae832f1329a6dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe09647fc852d099d9d6509877fc4ac3') in 0.009774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050895 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Blue Variant.prefab
+  artifactKey: Guid(e9be6b9d71ce20345b55b654f6eca5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Blue Variant.prefab using Guid(e9be6b9d71ce20345b55b654f6eca5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215a7fd828218e53512ab1ca70e96010') in 0.035020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Red Variant.prefab
+  artifactKey: Guid(8a8f57edf3523624eb9f886833e8e97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Red Variant.prefab using Guid(8a8f57edf3523624eb9f886833e8e97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ce2ed016ff61d258bd79f733d11a41') in 0.042768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car.prefab
+  artifactKey: Guid(133308cdb8794744caaef026bde9e1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car.prefab using Guid(133308cdb8794744caaef026bde9e1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81963910a5b2ac80a53853aa6665fced') in 0.038287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 95.627818 seconds.
+  path: Assets/Texture/aim.png
+  artifactKey: Guid(64830afddb1c94e41a75348bd236811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/aim.png using Guid(64830afddb1c94e41a75348bd236811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfe6b3be56e5ee82563f743eeab8c0e') in 0.048042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.730988 seconds.
+  path: Assets/Material/New Material.mat
+  artifactKey: Guid(eeeeee1f89c3dca44892e61f53f951f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material.mat using Guid(eeeeee1f89c3dca44892e61f53f951f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3bf4bfc98fa5ebf1fe531564c3566a') in 0.044141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.609721 seconds.
+  path: Assets/Material/Indicator.mat
+  artifactKey: Guid(eeeeee1f89c3dca44892e61f53f951f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Indicator.mat using Guid(eeeeee1f89c3dca44892e61f53f951f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0dfe26219267113a59de5df0e52f1fe') in 0.021691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.214169 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark.png
+  artifactKey: Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark.png using Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5271b3575eefaa4bdba69992d4e8e35b') in 0.036573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Textures/Color Variations/AFRC_Tex_Col1.png
+  artifactKey: Guid(8c508eea1762dd44cbf66593e03a6b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Textures/Color Variations/AFRC_Tex_Col1.png using Guid(8c508eea1762dd44cbf66593e03a6b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebab1e70376da1670b0263441fc7bb73') in 0.029486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light@2x.png
+  artifactKey: Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light@2x.png using Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b04406f8e9702422e7b6500c8f70b7b') in 0.041427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.794102 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Textures/Color Variations/AFRC_Tex_Col4.png
+  artifactKey: Guid(1732d531203aec748bc591f92d780684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Textures/Color Variations/AFRC_Tex_Col4.png using Guid(1732d531203aec748bc591f92d780684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a28ed8cc09ac99f4b742901cad5cd5') in 0.017732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.504803 seconds.
+  path: Packages/com.unity.xr.arfoundation/Editor/Icons/ARVR@4x.png
+  artifactKey: Guid(e7df757aba3e54a11a832b1b8cbe5aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Editor/Icons/ARVR@4x.png using Guid(e7df757aba3e54a11a832b1b8cbe5aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '006b03dab8f184ab730ffd31ea1b73dc') in 0.021503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022023 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark@2x.png
+  artifactKey: Guid(9c6313a5316f8a34b852bf94ff96e3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark@2x.png using Guid(9c6313a5316f8a34b852bf94ff96e3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75bc88bbdecf1f77ec14d26ad523698c') in 0.034861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.207632 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-light@2x.png
+  artifactKey: Guid(f5c57327df0fa294c8209aa216435167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-light@2x.png using Guid(f5c57327df0fa294c8209aa216435167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f75ddf09df99fe187db24f59536fc6') in 0.053234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Skybox/Day/Textures/Bottom.png
+  artifactKey: Guid(d09270a5be941b14e8cd76b7d0347e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Skybox/Day/Textures/Bottom.png using Guid(d09270a5be941b14e8cd76b7d0347e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b0a67dbf139f9b388346482521f07a') in 0.035874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 380.750148 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Scenes/Post Processing
+  artifactKey: Guid(a2402d9080f37e3409a46c76d26e0bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Scenes/Post Processing using Guid(a2402d9080f37e3409a46c76d26e0bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5994436ed4331d7754d45b156d653e59') in 0.018999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.069456 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Scenes/Post Processing/AFRC Volume Profile.asset
+  artifactKey: Guid(d297d2778eef9fb4cbc6b69c18433b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Scenes/Post Processing/AFRC Volume Profile.asset using Guid(d297d2778eef9fb4cbc6b69c18433b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b784a14e3aa7c5b262660c58905eb784') in 0.014539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.681417 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Skybox
+  artifactKey: Guid(32f739c73507c0d4eaecbd746e80a61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Skybox using Guid(32f739c73507c0d4eaecbd746e80a61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c14a4333f8f02affc35c2b9983b7f18') in 0.015941 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (94.4 KB). Loaded Objects now: 4337.
+Memory consumption went from 60.2 MB to 60.1 MB.
+Total: 11.721600 ms (FindLiveObjects: 2.819400 ms CreateObjectMapping: 1.854500 ms MarkObjects: 6.935200 ms  DeleteObjects: 0.108700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (94.4 KB). Loaded Objects now: 4337.
+Memory consumption went from 60.2 MB to 60.1 MB.
+Total: 6.910800 ms (FindLiveObjects: 1.209900 ms CreateObjectMapping: 1.043300 ms MarkObjects: 4.559500 ms  DeleteObjects: 0.096900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011082 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Chalindu Kodikara\ARFCarGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Chalindu Kodikara\ARFCarGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.996 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1997ms)
+		BeginReloadAssembly (319ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (91ms)
+		EndReloadAssembly (1478ms)
+			LoadAssemblies (202ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (572ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (600ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (33ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (151ms)
+				ProcessInitializeOnLoadAttributes (360ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3808 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (97.1 KB). Loaded Objects now: 4340.
+Memory consumption went from 135.8 MB to 135.7 MB.
+Total: 3.606600 ms (FindLiveObjects: 0.509400 ms CreateObjectMapping: 0.313400 ms MarkObjects: 2.652300 ms  DeleteObjects: 0.130800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (94.5 KB). Loaded Objects now: 4340.
+Memory consumption went from 59.8 MB to 59.7 MB.
+Total: 37.930300 ms (FindLiveObjects: 0.553500 ms CreateObjectMapping: 0.384000 ms MarkObjects: 36.760800 ms  DeleteObjects: 0.230500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 24.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (94.6 KB). Loaded Objects now: 4340.
+Memory consumption went from 59.8 MB to 59.7 MB.
+Total: 49.047800 ms (FindLiveObjects: 1.559100 ms CreateObjectMapping: 0.821100 ms MarkObjects: 45.186800 ms  DeleteObjects: 1.475600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (94.5 KB). Loaded Objects now: 4340.
+Memory consumption went from 59.8 MB to 59.7 MB.
+Total: 3.738900 ms (FindLiveObjects: 0.309100 ms CreateObjectMapping: 0.216200 ms MarkObjects: 3.115300 ms  DeleteObjects: 0.097600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 2099200
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (94.6 KB). Loaded Objects now: 4340.
+Memory consumption went from 59.8 MB to 59.7 MB.
+Total: 4.343000 ms (FindLiveObjects: 0.396400 ms CreateObjectMapping: 0.292200 ms MarkObjects: 3.525000 ms  DeleteObjects: 0.128500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3794.153541 seconds.
+  path: Packages/com.unity.xr.arcore/Editor/Unity.XR.ARCore.Editor.asmdef
+  artifactKey: Guid(d76576b768da4171b007f21c44fabe13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/Editor/Unity.XR.ARCore.Editor.asmdef using Guid(d76576b768da4171b007f21c44fabe13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f5edfc7679518a9c8ae2e4437ef1a3') in 0.229801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.404648 seconds.
+  path: Packages/com.unity.xr.arcore/Editor/ARCoreBuildProcessor.cs
+  artifactKey: Guid(3b57a5e462d2ae74fbbac89824b615b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/Editor/ARCoreBuildProcessor.cs using Guid(3b57a5e462d2ae74fbbac89824b615b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37100577e1c7725a678269eb7ebb4d9') in 0.009411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.608788 seconds.
+  path: Packages/com.unity.xr.arcore/Editor/ARCoreImageLibraryBuildProcessor.cs
+  artifactKey: Guid(0337758f38d24d76ab981b6eccab868d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/Editor/ARCoreImageLibraryBuildProcessor.cs using Guid(0337758f38d24d76ab981b6eccab868d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd80e8b5f1da77cd9392ff131f0aae6c') in 0.010894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.267303 seconds.
+  path: Packages/com.unity.xr.arcore/package.json
+  artifactKey: Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/package.json using Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2ab238635690ab4fd27a088ef4060f') in 0.242012 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (77.2 KB). Loaded Objects now: 4341.
+Memory consumption went from 59.8 MB to 59.7 MB.
+Total: 4.009500 ms (FindLiveObjects: 0.317000 ms CreateObjectMapping: 0.206800 ms MarkObjects: 3.371000 ms  DeleteObjects: 0.113700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (77.2 KB). Loaded Objects now: 4341.
+Memory consumption went from 59.7 MB to 59.6 MB.
+Total: 4.775400 ms (FindLiveObjects: 0.425000 ms CreateObjectMapping: 0.338100 ms MarkObjects: 3.902100 ms  DeleteObjects: 0.109200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1041.774394 seconds.
+  path: Packages/com.unity.xr.arcore/Assets
+  artifactKey: Guid(5240fe65ba7be46b191a73822f0072a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/Assets using Guid(5240fe65ba7be46b191a73822f0072a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0bc222c8580bc9d48ebd4798498743') in 0.015964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 104.183846 seconds.
+  path: Assets/AR Default Plane.prefab
+  artifactKey: Guid(44a644fff5a3f644796f16cea9157065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AR Default Plane.prefab using Guid(44a644fff5a3f644796f16cea9157065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db83e6667b57a3742e7250886fca48c') in 1.507591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 117.724317 seconds.
+  path: Assets/AR Default Plane.prefab
+  artifactKey: Guid(44a644fff5a3f644796f16cea9157065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AR Default Plane.prefab using Guid(44a644fff5a3f644796f16cea9157065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486934a155e9ac1a4322747aed700de0') in 0.014296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.397115 seconds.
+  path: Assets/AR Default Plane.prefab
+  artifactKey: Guid(44a644fff5a3f644796f16cea9157065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AR Default Plane.prefab using Guid(44a644fff5a3f644796f16cea9157065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4e7394f458b018735261cd0b43006d') in 0.010578 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 13.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (102.7 KB). Loaded Objects now: 4342.
+Memory consumption went from 59.8 MB to 59.7 MB.
+Total: 10.505300 ms (FindLiveObjects: 0.778400 ms CreateObjectMapping: 0.569400 ms MarkObjects: 8.853200 ms  DeleteObjects: 0.302400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1137.631023 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(5a777723a42f24547b1df02dd1723d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(5a777723a42f24547b1df02dd1723d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349c4870aa57c9beb054ce7e72b62ec5') in 0.011821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.082823 seconds.
+  path: Assets/Prefab/Free Racing Car.prefab
+  artifactKey: Guid(5b99c94a892ca19408e319aa2876a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Free Racing Car.prefab using Guid(5b99c94a892ca19408e319aa2876a763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b32147ed432d57ef053411aeea7314') in 0.693878 seconds 

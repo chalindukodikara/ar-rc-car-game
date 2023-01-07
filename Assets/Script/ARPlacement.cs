@@ -10,6 +10,8 @@ public class ARPlacement : MonoBehaviour
     public GameObject arObjectToSpawn;
     public GameObject placementIndicator;
 
+    public GameObject joyStickCanvas;
+
     private GameObject spawnedObject; // Object to store our spawned object
     private Pose PlacementPose;
     private ARRaycastManager aRRaycastManager;
@@ -18,6 +20,7 @@ public class ARPlacement : MonoBehaviour
     void Start()
     {
         aRRaycastManager = FindObjectOfType<ARRaycastManager>();
+         joyStickCanvas.SetActive(false);
     }
 
     // need to update placement indicator, placement pose and spawn 
@@ -27,6 +30,7 @@ public class ARPlacement : MonoBehaviour
         if(spawnedObject == null && placementPoseIsValid && Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
         {
             ARPlaceObject();
+            joyStickCanvas.SetActive(true);
         }
 
         // Otherwise keep updating pose and position
